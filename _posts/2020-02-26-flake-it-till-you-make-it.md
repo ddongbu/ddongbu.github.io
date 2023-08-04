@@ -7,14 +7,16 @@ thumbnail-img: /assets/img/logo.png
 share-img: /assets/img/logo.png
 ---
 
-### 학교에서 진행한 개인 프로젝트
+### 개인 프로젝트
 📜담당 구현 파트
 
     프로젝트 개발환경 구축, 설계 참여 완료
+     Java,SpringBoot,Thymeleaf,MySql,SpringSecurity,oAuth2.0
      메인 페이지 구현
      견적 게시판 구현
+     소셜로그인 (구글 , 네이버 , 카카오).
+     Spring 자체에서 DB CRUD
      GitHub 레포지토리 전체 관리
-스프링시큐리티 , oAuth2.0을 이용한 소셜로그인 (구글 , 네이버 , 카카오).
 
 
 📜프로젝트 구현기능
